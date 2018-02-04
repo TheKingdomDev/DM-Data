@@ -1,0 +1,11 @@
+{
+    "PlayerCharacter": {
+        "name": "Ulfar",
+        "race": "Dwarf",
+        "class": "Fighter",
+        "armorclass": 16,
+        "passiveperception": 12,
+        "mainactions": ["Maul Attack","Grapple","Throw Handaxe"],
+        "other": "Speaks primordial"
+    }
+}
