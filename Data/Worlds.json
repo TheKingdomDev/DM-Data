@@ -3,6 +3,131 @@
         "Toril": {
             "bigPicture": [
                 {"godsinfluence": {
+                        "godsoversee": "The gods are real and people embody their teachings. They claim dominion over aspects of the world.",
+                        "godsinhabit": "What if the gods in your world walk the same plane as the players? What if players can challenge them and sieze power.",
+                        "godsareabsent": "What if gods don't exist or are lost, requiring players to gain strength and find out the reason of their absence."
+                    }
+                },
+                {"stateoftheworld": {
+                        "untamed": "The world is wind and large regions are unexplored and un-populated.",
+                        "mundane": "The magic is rare and dangerous, what if it's historically accurate?"
+                    }
+                },
+                {"ageoftheworld": {
+                    "new": "What if your world is new, the world has only just formed and inhabitants are the first heroes!",
+                    "ancient": "The world has seen empires rise and fall. War, time, and all manner of forces have shaped it with their influence."
+                    }
+                },
+                {"conflictandhistory": {
+                        "confict": "War, Power, Factions, Kingdoms, Prophets - all fighting to shape the history of your world."
+                    }
+                },
+                {"magicandyourworld": {
+                        "magiciscommon": "Magic users and magic is prevalent and influences the life of the world. Magic items are available and even artifacts and powerful magic users are know to exist.",
+                        "magicisrare": "Magic is shunned or an unspeakable offense. It isn't practiced or taught.",
+                        "magicisabsent": "Magic doesn't exist!"
+                    }
+                },
+                {"evilandgood": {
+                        "balance": "The world has ideals of evil and good, beings of both sides.",
+                        "ideals": "The ideals of good and evil are warped and mean different things to the peoples of the world."
+                    }
+                }
+            ],
+            "history": [
+                {"kingdoms": {  
+                        "amn": "",
+                        "cormyr": "",
+                        "moonshae Isles": "",
+                        "thay": ""
+                    }
+                },
+                {"wars": {
+                        "bloodwar": "",
+                        "dragonwars": "",
+                        "firstcrownwar": "",
+                        "waroffangandtalon": ""
+                    }
+                },
+                {"ages": {
+                        "humanity": "",
+                        "blueage": "",
+                        "dawnage": "",
+                        "firstflowering": "",
+                        "shadowepoch": "",
+                        "thefoundingtime": ""
+                    }
+                },
+                {"majorevents": {
+                        "daysofthunder": "",
+                        "karsussfolly": "",
+                        "timeoftroubles": "",
+                        "spellplague": "",
+                        "secondsundering": ""
+                    }
+                },
+                {"cataclysms": {
+                        "spellplague": "",
+                        "firstsundering": "",
+                        "secondsundering": ""
+                    }
+                }
+            ],
+            "gods": [
+                {"pantheons": {
+                        "forgottenrealms": "Traditional Forgotten Realms gods for this world."
+                    }
+                },
+                {"religioussystems": {
+                        "caste": "Traditional caste religious system."
+                    }
+                },
+                {"divineranks": {
+                        "bestowed": "Gods choose the ranks of their followers."
+                    }
+                }
+            ],
+            "continents": [
+                {"faerun": {
+                        "description": "The westernmost portion of Toril's central supercontinent, a diverse landscape inhabited by numerous races and cultures, including humans, dwarves, elves, halflings, and gnomes"
+                    }
+                },
+                {"zakhara": {
+                        "description": "A mostly hot, arid realm dominated by elemental forces and a philosophy of fate and honor"
+                    }
+                },
+                {"kara-Tur": {
+                        "description": "The exotic east, steeped in ancient history like fine tea."
+                    }
+                },
+                {"maztica": {
+                        "description": "Primitive cultures bound by duty to their gods gave blood sacrifices in return for power while those who disagreed with the practice struggled to survive."
+                    }
+                },
+                {"anchorome": {
+                        "description": "Hardly explored, seemingly populated with violent elves and more of the humans found in Maztica."
+                    }
+                },
+                {"katashaka": {
+                        "description": "Unexplored."
+                    }
+                },
+                {"laerakond": {
+                        "description": "A continent formerly located in the world of Abeir, a land of dragon empires and new cultures."
+                    }
+                },
+                {"osse": {
+                        "description": "Populated by spiritualists and druids, the spirit world and nature dominated the lives of its inhabitatants. Unexplored."
+                    }
+                }
+            ],
+            "settlements": ["Neverwinter", "Waterdeep", "Amn", "Baldur's Gate", "Citadel Adbar", "Mithril Hall", "Silvermoon", "Luskan", "Daggerford", "Menzoberranzan"],
+            "languages": ["Deep Speech", "Undercommon", "Primordial", "Abyssal", "Sylvan", "Draconic", "Elven", "Dwarven", "Giant", "Gnome", "Orc", "Goblin", "Celestial", "Common"],
+            "races": ["Dwarf", "Elf", "Gnome", "Human", "Tiefling", "Orcish", "Goblin", "Dragonborn", "Aasimar", "Halfling", "Genasi", "Goliath"]
+        },
+        "Exandria": {
+            "bigPicture": [
+                {"godsinfluence": {
 
                     }
                 },
@@ -63,43 +188,10 @@
                     }
                 }
             ],
-            "continents": [
-                {"faerun": {
-                        "description": "The westernmost portion of Toril's central supercontinent, a diverse landscape inhabited by numerous races and cultures, including humans, dwarves, elves, halflings, and gnomes"
-                    }
-                },
-                {"zakhara": {
-                        "description": "A mostly hot, arid realm dominated by elemental forces and a philosophy of fate and honor"
-                    }
-                },
-                {"kara-Tur": {
-                        "description": "The exotic east, steeped in ancient history like fine tea."
-                    }
-                },
-                {"maztica": {
-                        "description": "Primitive cultures bound by duty to their gods gave blood sacrifices in return for power while those who disagreed with the practice struggled to survive."
-                    }
-                },
-                {"anchorome": {
-                        "description": "Hardly explored, seemingly populated with violent elves and more of the humans found in Maztica."
-                    }
-                },
-                {"katashaka": {
-                        "description": "Unexplored."
-                    }
-                },
-                {"laerakond": {
-                        "description": "A continent formerly located in the world of Abeir, a land of dragon empires and new cultures."
-                    }
-                },
-                {"osse": {
-                        "description": "Populated by spiritualists and druids, the spirit world and nature dominated the lives of its inhabitatants. Unexplored."
-                    }
-                }
-            ],
+            "continents": [],
             "settlements": [],
             "languages": [],
             "races": []
-        }   
+        }    
     }
 }
