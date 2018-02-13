@@ -1,5 +1,28 @@
 {
   "Treasure": {
-    
+    "currency": {
+      "platinum": "Platinum",
+      "gold": "Gold",
+      "electrum": "Electrum",
+      "silver": "Silver",
+      "copper": "Copper"
+    },
+    "equipment": "Equipment",
+    "magicitems": "Magic Items",
+    "potionsandvials": "Potions & Vials",
+    "scrolls": "Spell Scrolls",
+    "artanddecor": "Art pieces & Antiques",
+    "jewlery": "Rings, Necklaces, Earings and other Jewlery",
+    "gems": {
+      "garnet": "Garnet",
+      "topaz": "Topaz",
+      "ruby": "Ruby",
+      "sapphire": "Sapphire",
+      "jade": "jade",
+      "opal": "Opal",
+      "diamond": "Diamond",
+      "quartz": "Quartz",
+      "pearls": "Pearls"
+    }
   }
 }
