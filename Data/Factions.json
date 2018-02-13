@@ -1,20 +1,30 @@
 {
     "ForgottenRealms": {
         "harpers": {
-            "description": "",
-            "insignia": "",
-            "goals": [],
-            "ranks": [],
-            "benefits": [],
-            "training": []
+            "description": "An old organization that has risen, been shattered, and risen again several times. Its longevity and resilience are largely due to its decentralized, grassroots, secretive nature, and the near-autonomy of many of its members.",
+            "insignia": "White harp inside of a left-facing half moon.",
+            "goals": "To gather information throughout Faerun, discern political dynamics within each region or realm, and promote fairness and equality by covert means. Act openly as a last resort. Thwart tyrants and any leader, government, or group that grows too powerful, and aid the weak, the poor, and the oppressed.",
+            "beliefs": ["1. One can never have too much information.", "2. Too much power leads to corruption.", "3. No one should be powerless."],
+            "ranks": ["Watcher", "Harpshadow", "Brightcandle", "Wise Owl", "High Harper"],
+            "benefits": ["Harper Pin - Gives disadvantage to attacks made agains the harper with magical attacks",
+                        "Harper Knowledge - Gains proficiency bonus to any intelligence checks, if already proficient, double the bonus.",
+                        "Sanctuary - Sanctuary once per long rest, DC is 10+ Harper Rank + Charisma modifier.",
+                        "Tymora's Smile - Luck bonus, applies proficiency bonus to armor class.",
+                        "Mystra's Boon - Gains advantage for saves against magical attacks."],
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "orderofthegauntlet": {
-            "description": "",
-            "insignia": "",
-            "goals": [],
-            "ranks": [],
-            "benefits": [],
-            "training": []
+            "description": "Many paladins and clerics of Tyr, Helm, Torm, and Hoar have joined the organization, seeing it as - finally! - a way of making common cause against the evil abroad in the world. The Order of the Gauntlet is ready to lash out the moment evil acts, and not a moment before.",
+            "insignia": "Gauntlet gripping an upright sword by the blade.",
+            "goals": "To be armed, vigilant, and ready to smite evil, enforce justice, and enact retribution. This means identifying evil threats such as secretive power groups and inherently evil creatures, watching over them, and being ready to attack the moment they misbehave. (Never preemptive)",
+            "beliefs": ["1. Faith is the greatest weapon against evil - faith in one's god, one's friends, and one's self.", "2. Battling evil is an extraordinary task that requires extraordinary strength and bravery.", "3. Punishing an evil act is just. Punishing an evil thought is not."],
+            "ranks": ["Chevall", "Marcheon", "Whitehawk", "Vindicator", "Righteous Hand"],
+            "benefits": ["Damage Resistance - Subtract proficiency bonus from damage taken each round.",
+                        "Taunt - Force opponent to attack you.",
+                        "Blade of Justice - Gain advantage to attack anyone who damaged you in the previous turn.",
+                        "Aura of Law - Anyone in a 15 foot radius gains disadvantace when attacking the Vindicator's allies",
+                        "Hand of Righteousness - Advantage on strength checks, double bonus if known."],
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "emeraldenclave": {
             "description": "",
@@ -22,7 +32,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "lordsalliance": {
             "description": "",
@@ -30,7 +40,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "zhentarim": {
             "description": "",
@@ -38,7 +48,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         }
     },
     "Exandria": {
@@ -48,7 +58,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "ashari": {
             "description": "",
@@ -56,7 +66,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "brawlersleague": {
             "description": "",
@@ -64,7 +74,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "chamberofwhitestone": {
             "description": "",
@@ -72,7 +82,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "claretorders": {
             "description": "",
@@ -80,7 +90,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "theclasp": {
             "description": "",
@@ -88,7 +98,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "counciloftaldorei": {
             "description": "",
@@ -96,7 +106,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "housesofkraghammer": {
             "description": "",
@@ -104,7 +114,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "thegoldengrin": {
             "description": "",
@@ -112,7 +122,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "themyriad": {
             "description": "",
@@ -120,7 +130,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "theremnants": {
             "description": "",
@@ -128,7 +138,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         },
         "thewardensofsyngorn": {
             "description": "",
@@ -136,7 +146,7 @@
             "goals": [],
             "ranks": [],
             "benefits": [],
-            "training": []
+            "training": ["Downtime activity (Faction specific)", "Mentor", "Secret Missions", "Apprenticeship", "Faction Leadership"]
         }
     }
 }
